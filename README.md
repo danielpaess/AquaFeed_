@@ -11,6 +11,7 @@ O objetivo deste projeto é desenvolver o Minimum Viable Product (MVP) do AquaFe
 
 ## 🔗 Links Úteis
 * **Repositório GitHub:** [danielpaess/AquaFeed](https://github.com/danielpaess/AquaFeed)
+* **Figma:** [Link do Figma](https://www.figma.com/design/pth00P2SOw71VtukOAqf0v/AquaFeed_wireframe?node-id=0-1&p=f&t=L6KAfcDVI6Einwxg-0)
 
 ---
 
@@ -37,7 +38,8 @@ A modelagem foi pensada com uma arquitetura preparada para o futuro, utilizando 
 
 ## 📱 Telas do Projeto (Figma)
 
-img
+<img width="1261" height="338" alt="image" src="https://github.com/user-attachments/assets/ee0aa768-3353-4ded-b339-3ff6fa37e369" />
+
 
 
 ---
